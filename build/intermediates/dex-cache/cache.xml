@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Workplace\AndroidStudio\camConRemake\openCVTutorial3CameraControl\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="D:\Workplace\AndroidStudio\camConRemake\openCVTutorial3CameraControl\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_a6e66554ad9d93b88ff5635486e7d7b9b2b1aa3b\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Workplace\AndroidStudio\camConRemake\openCVLibrary310\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bd0b5fe9b86387f76525159583082510338cb1c">
+        <dex dex="D:\Workplace\AndroidStudio\camConRemake\openCVTutorial3CameraControl\build\intermediates\pre-dexed\debug\classes_ad99b164305836b33d7449d918c66574256b1ff2.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workplace\AndroidStudio\camConRemake\openCVTutorial3CameraControl\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bb769c95b9dc6532e58d6dfefb614f3a7fa39e00">
+        <dex dex="D:\Workplace\AndroidStudio\camConRemake\openCVTutorial3CameraControl\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_04cf074d86f3bc10fc864db8b55b6235beabc7fe\classes.dex" />
+    </item>
+
+</items>

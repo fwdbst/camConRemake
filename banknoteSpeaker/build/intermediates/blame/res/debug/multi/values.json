@@ -1,0 +1,19 @@
+[
+    {
+        "outputFile": "D:\\Workplace\\AndroidStudio\\camConRemake\\banknoteSpeaker\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 345,
+                    "endColumn": 58,
+                    "endOffset": 399
+                },
+                "from": {
+                    "file": "D:\\Workplace\\AndroidStudio\\camConRemake\\banknoteSpeaker\\src\\main\\res\\values\\strings.xml"
+                }
+            }
+        ]
+    }
+]
